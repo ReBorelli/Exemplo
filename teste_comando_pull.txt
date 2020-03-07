@@ -1,0 +1,2 @@
+Teste do comando Pull.
+Adicionando um arquivo criado no GITHUB para o GIT.
